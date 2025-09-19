@@ -2,7 +2,7 @@
 
 How to play / Rules:
 
-1. It is a very simple game in which you have place some shapes on a grid.
+1. It is a very simple game in which you have to place some shapes on a grid.
 2. You get points on placing a shape based on how many cells of the board it covers.
 3. When a row/column is filled with blocks, all the blocks in that row/column are removed and you get points in place of that.
 4. If you fill more than one row/column after placing a block, then you get bonus points based on how many rows/columns you have filled.
